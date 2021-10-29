@@ -1,0 +1,34 @@
+{
+  "packageDirectories": [
+    {
+      "path": "pf-base",
+      "package": "pf-base",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "default": true
+  },
+  {
+      "path": "pf-apex-lwc",
+      "package": "pf-apex-lwc",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "default": false
+  },
+  {
+      "path": "cs-base",
+      "package": "cs-base",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "default": false
+  }
+  ],
+  "name": "TriggerFrameWorkPOC",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "52.0",
+  "packageAliases": {
+    "pf-base": "0Ho5e000000KzMoCAK",
+    "pf-apex-lwc": "0Ho5e000000KzMtCAK",
+    "cs-base":"0Ho5e000000KzMyCAK"
+}
+}
